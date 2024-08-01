@@ -1,3 +1,3 @@
 # cheatsheet
-python ile makine öğrenmesi için sık kullandığım template, tool ve notlar.
-google colab kullanıldı
+frequently used templates, tools and code for machine learning with python
+used google colab

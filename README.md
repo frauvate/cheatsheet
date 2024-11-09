@@ -9,6 +9,8 @@ various machine learning tasks.
   preprocessing. This includes data cleaning, normalization, and feature engineering techniques.
 - **Simple Linear Regression**: A Jupyter notebook template for implementing and understanding
   simple linear regression models.
+- **Multiple Linear Regression**: A Jupyter notebook template for implementing and understanding
+  multiple linear regression models.
 
 ## Usage
 1. **Clone the Repository**: 
